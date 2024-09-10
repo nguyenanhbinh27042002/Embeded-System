@@ -1,2 +1,2 @@
-Embedded System Software Engineer
-Bosch Global Software Technologies Vietnam
+Embedded System Software Engineer at Bosch Global Software Technologies Vietnam
+
